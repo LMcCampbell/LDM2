@@ -1,7 +1,8 @@
 # LDM2
+AMaking changes in branch 3 and removing stuff in master branch
+
 Adding text here for Branch 1 of the LDM2 Repo.
 
-Adding new text after deleting a line of text for this line which i removed from branch 3 - hoping to create a conflict!
 
 
 Celebrate!
