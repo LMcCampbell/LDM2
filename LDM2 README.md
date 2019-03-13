@@ -1,7 +1,9 @@
 # LDM2
-Adding text here for Branch 1 of the LDM2 Repo.
+AMaking changes in branch 3 and removing stuff in master branch
 
-Adding new text after deleting a line of text
+dding text here for Branch 1 of the LDM2 Repo.
+
+
 Celebrate!
 By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!
 
